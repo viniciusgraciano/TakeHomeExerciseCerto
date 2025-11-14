@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TakeHomeExercise/FileContentIndex/e942c2c7-d2ad-46fb-b466-f7cde6419de7.vsidx
+*.vsidx

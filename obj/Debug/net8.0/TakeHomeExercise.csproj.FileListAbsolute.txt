@@ -1,0 +1,14 @@
+C:\Users\viniciusn\source\repos\TakeHomeExercise\bin\Debug\net8.0\TakeHomeExercise.exe
+C:\Users\viniciusn\source\repos\TakeHomeExercise\bin\Debug\net8.0\TakeHomeExercise.deps.json
+C:\Users\viniciusn\source\repos\TakeHomeExercise\bin\Debug\net8.0\TakeHomeExercise.runtimeconfig.json
+C:\Users\viniciusn\source\repos\TakeHomeExercise\bin\Debug\net8.0\TakeHomeExercise.dll
+C:\Users\viniciusn\source\repos\TakeHomeExercise\bin\Debug\net8.0\TakeHomeExercise.pdb
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.AssemblyInfoInputs.cache
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.AssemblyInfo.cs
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.csproj.CoreCompileInputs.cache
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.dll
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\refint\TakeHomeExercise.dll
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.pdb
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\TakeHomeExercise.genruntimeconfig.cache
+C:\Users\viniciusn\source\repos\TakeHomeExercise\obj\Debug\net8.0\ref\TakeHomeExercise.dll
